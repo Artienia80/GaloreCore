@@ -1,5 +1,11 @@
 {
   "itemGroup.mulberry": "Mulberry",
-  "block.mulberry.meteoric_rock": "Meteoric Rock",
-  "item.mulberry.meteorite_ingot": "Meteorite Ingot"
+
+  "block.mulberry.meteorite_rock": "Meteorite Rock",
+  "block.mulberry.meteorite_block": "Block of Meteorite",
+  "block.mulberry.meteorite_slag_block": "Block of Meteorite Slag",
+
+  "item.mulberry.meteorite_ingot": "Meteorite Ingot",
+  "item.mulberry.meteorite_slag": "Meteorite Slag"
+
 }

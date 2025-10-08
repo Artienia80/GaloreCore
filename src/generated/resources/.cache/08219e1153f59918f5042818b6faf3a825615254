@@ -1,3 +1,6 @@
-// 1.21	2025-10-07T13:16:59.7230115	Item Models: mulberry
-d1a36694d87884c0fc2f9cacc10c8f7c54ce74c3 assets/mulberry/models/item/meteoric_rock.json
+// 1.21	2025-10-08T20:38:09.8349375	Item Models: mulberry
+f78f66c95f02cd1fd49411b74d0f92e929210191 assets/mulberry/models/item/meteorite_block.json
 dcdfa50f64fef17a14de689b148c18c80de4ec38 assets/mulberry/models/item/meteorite_ingot.json
+46998c733a0cb428585004af9947a015a66de2ed assets/mulberry/models/item/meteorite_rock.json
+80e20fcf0cd06f1c2c5eeec6a67ba6252f1a94a8 assets/mulberry/models/item/meteorite_slag.json
+8510a0cd0ec4dfb9d8eb1b01218c8f797299be07 assets/mulberry/models/item/meteorite_slag_block.json

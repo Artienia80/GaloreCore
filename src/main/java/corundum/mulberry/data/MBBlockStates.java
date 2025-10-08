@@ -13,6 +13,10 @@ public class MBBlockStates extends BlockStateProvider {
 
     @Override
     protected void registerStatesAndModels() {
-        simpleBlock(MBBlocks.METEORIC_ROCK.get());
+
+        simpleBlock(MBBlocks.METEORITE_ROCK.get());
+        simpleBlock(MBBlocks.METEORITE_BLOCK.get());
+        simpleBlock(MBBlocks.METEORITE_SLAG_BLOCK.get());
+
     }
 }

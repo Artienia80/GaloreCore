@@ -12,4 +12,9 @@ public class MBItems {
             "meteorite_ingot",
             new Item.Properties()
     );
+
+    public static final DeferredItem<Item> METEORITE_SLAG = ITEMS.registerSimpleItem(
+            "meteorite_slag",
+            new Item.Properties()
+    );
 }
