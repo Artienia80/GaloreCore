@@ -17,4 +17,29 @@ public class MBItems {
             "meteorite_slag",
             new Item.Properties()
     );
+
+    public static final DeferredItem<Item> METEORITE_PLATE = ITEMS.registerSimpleItem(
+            "meteorite_plate",
+            new Item.Properties()
+    );
+
+    public static final DeferredItem<Item> IRON_PLATE = ITEMS.registerSimpleItem(
+            "iron_plate",
+            new Item.Properties()
+    );
+
+    public static final DeferredItem<Item> STEEL_PLATE = ITEMS.registerSimpleItem(
+            "steel_plate",
+            new Item.Properties()
+    );
+
+    public static final DeferredItem<Item> ELECTRUM_PLATE = ITEMS.registerSimpleItem(
+            "electrum_plate",
+            new Item.Properties()
+    );
+
+    public static final DeferredItem<Item> BREEZE_POWDER = ITEMS.registerSimpleItem(
+            "breeze_powder",
+            new Item.Properties()
+    );
 }

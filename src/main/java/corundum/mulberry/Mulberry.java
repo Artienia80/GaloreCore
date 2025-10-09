@@ -6,6 +6,7 @@ import com.mojang.logging.LogUtils;
 import corundum.mulberry.content.MBBlocks;
 import corundum.mulberry.content.MBItems;
 import corundum.mulberry.content.MBCreativeTabs;
+import corundum.mulberry.data.MBDatagen;
 
 import net.minecraft.world.item.CreativeModeTabs;
 import net.neoforged.api.distmarker.Dist;

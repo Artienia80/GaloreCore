@@ -31,7 +31,18 @@ public class MBCreativeTabs {
                                 MBBlocks.METEORITE_SLAG_BLOCK,
 
                                 MBItems.METEORITE_INGOT,
-                                MBItems.METEORITE_SLAG
+                                MBItems.METEORITE_SLAG,
+                                MBItems.METEORITE_PLATE,
+
+                                MBItems.IRON_PLATE,
+                                MBItems.STEEL_PLATE,
+                                MBItems.ELECTRUM_PLATE,
+
+
+
+                                MBItems.BREEZE_POWDER
+
+
 
                         );
                     })

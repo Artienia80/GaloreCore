@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "DeferredHolder{ResourceKey[minecraft:item / mulberry:meteorite_plate]}",
+  "key": {
+    "I": {
+      "item": "mulberry:meteorite_ingot"
+    }
+  },
+  "pattern": [
+    "II",
+    "II"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mulberry:meteorite_plate"
+  }
+}

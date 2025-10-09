@@ -6,6 +6,14 @@
   "block.mulberry.meteorite_slag_block": "Block of Meteorite Slag",
 
   "item.mulberry.meteorite_ingot": "Meteorite Ingot",
-  "item.mulberry.meteorite_slag": "Meteorite Slag"
+  "item.mulberry.meteorite_slag": "Meteorite Slag",
+  "item.mulberry.meteorite_plate": "Meteorite Plate",
+
+  "item.mulberry.iron_plate": "Iron Plate",
+  "item.mulberry.steel_plate": "Steel Plate",
+  "item.mulberry.electrum_plate": "Electrum Plate",
+
+  "item.mulberry.breeze_powder": "Breeze Powder"
+
 
 }
